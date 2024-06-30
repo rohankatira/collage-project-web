@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background:transparent !important;
+}
+#banner-section{
+    background: url("../images/banner-images/bg-Image-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.nav-link{
+   color: white;
+}
+
+.nav-link:hover{
+    color: green;
+}
+
+.navbar-nav{
+    display: flex;
+    gap: 30px;
+}
+
+.dark-background{
+    background-color: rgba(0, 0, 0, 0.501);
+    width: 100%;
+    height: 100vh;
+}
+
+#banner-section .content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
