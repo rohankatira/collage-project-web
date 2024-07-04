@@ -48,7 +48,13 @@
 .container-contain{
     background-color: #f2f8f1;
     padding: 25px;
+    border-radius: 7px;
 }
 .container-contain>button{
     background-color: #2eca7f;
+    border: none;
+}
+
+.carousel-item img{
+    height: 500px;
 }
