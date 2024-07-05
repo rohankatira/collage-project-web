@@ -58,3 +58,16 @@
 .carousel-item img{
     height: 500px;
 }
+.our-best-featurea-card-set{
+    height: 500px;
+}
+.card-body a{
+    text-decoration: none;
+    color: #2eca7f;
+}
+.our-best-featurea-card-set{
+    background-color: #f2f8f1;
+}
+.best-contant-section{
+    background-color: #f2f8f1;
+}
